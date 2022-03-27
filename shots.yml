@@ -1,2 +1,9 @@
 - url: https://www.waveapps.com/
   output: wave-home.png
+  wait: 3000
+- url: https://www.waveapps.com/pricing
+  output: wave-pricing.png
+  wait: 3000
+- url: https://www.waveapps.com/blog
+  output: wave-blog.png
+  wait: 3000
